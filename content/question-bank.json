@@ -1,0 +1,191 @@
+[
+    {
+      "question": "How do we ensure AI applications are built ethically and transparently in enterprise settings?",
+      "metadata": [
+        {
+          "category": "General AI and Ethics Questions",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "What are the most significant ethical concerns related to AI in the workplace?",
+      "metadata": [
+        {
+          "category": "General AI and Ethics Questions",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How can AI bias be prevented or mitigated in automated decision-making systems?",
+      "metadata": [
+        {
+          "category": "General AI and Ethics Questions",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "What frameworks or guidelines exist for developing responsible AI systems in large organizations?",
+      "metadata": [
+        {
+          "category": "General AI and Ethics Questions",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How are political candidates in the current presidential election discussing AI regulation and governance?",
+      "metadata": [
+        {
+          "category": "AI and Politics",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "What role should the government play in regulating AI development and its use in enterprises?",
+      "metadata": [
+        {
+          "category": "AI and Politics",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How could political changes impact AI policies in the US?",
+      "metadata": [
+        {
+          "category": "AI and Politics",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "Are there political trends or legislation that may hinder AI innovation in the private sector?",
+      "metadata": [
+        {
+          "category": "AI and Politics",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "What is the government currently doing to promote the ethical use of AI in business?",
+      "metadata": [
+        {
+          "category": "AI and Government Guidance",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "Are there any notable federal or state regulations related to AI that enterprises should be aware of?",
+      "metadata": [
+        {
+          "category": "AI and Government Guidance",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How might AI regulation differ across industries (e.g., healthcare, finance, technology)?",
+      "metadata": [
+        {
+          "category": "AI and Government Guidance",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "Are there government agencies providing guidance or resources for ethical AI development?",
+      "metadata": [
+        {
+          "category": "AI and Government Guidance",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How can enterprises ensure transparency in AI decisions to build trust with stakeholders and customers?",
+      "metadata": [
+        {
+          "category": "AI, Trust, and Transparency",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "What steps can organizations take to make AI systems more explainable and accountable?",
+      "metadata": [
+        {
+          "category": "AI, Trust, and Transparency",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "What are the risks of not adopting a transparent and ethical approach to AI in business?",
+      "metadata": [
+        {
+          "category": "AI, Trust, and Transparency",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How do data privacy regulations (like GDPR or CCPA) affect AI development and deployment in enterprises?",
+      "metadata": [
+        {
+          "category": "AI and Data Privacy",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "What privacy risks should enterprises be aware of when integrating AI into their operations?",
+      "metadata": [
+        {
+          "category": "AI and Data Privacy",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How can AI applications balance innovation with strict data privacy requirements?",
+      "metadata": [
+        {
+          "category": "AI and Data Privacy",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How do public concerns about AI and automation influence government policy decisions?",
+      "metadata": [
+        {
+          "category": "AI and Public Opinion",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "What are the most common misconceptions about AI among the public, and how can they be addressed?",
+      "metadata": [
+        {
+          "category": "AI and Public Opinion",
+          "source": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "question": "How can businesses help shape public opinion on the benefits and risks of AI?",
+      "metadata": [
+        {
+          "category": "AI and Public Opinion",
+          "source": "ChatGPT"
+        }
+      ]
+    }
+  ]
